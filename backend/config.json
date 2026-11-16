@@ -1,0 +1,14 @@
+{
+  "chat": {
+    "base_url": "http://127.0.0.1:3065/v1",
+    "api_key": "sk-a2a-f36e5624bb2a16ccd60262aec2ff5784",
+    "model": "auto"
+  },
+  "embedding": {
+    "base_url": "https://api.voyageai.com/v1",
+    "api_key": "pa-7GkhjhRYmP5Li36ui_R224tWRpRa48i-zfd3gL96j5N",
+    "model": "voyage-4-lite",
+    "rpm": 3,
+    "tpm": 10000
+  }
+}
